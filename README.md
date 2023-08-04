@@ -2,7 +2,7 @@
 
 Probamos todos los frameworks y comprobamos los resultados - NuxtJS!🤫
 
-# Resultados NuxtJS 13 en máquina local, en incógnito, con Chrome Profiler
+# Resultados NuxtJS en máquina local, en incógnito, con Chrome Profiler
 * 1ms Loading
 * 27ms Scripting
 * 1ms Rendering
